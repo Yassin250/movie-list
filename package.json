@@ -2,8 +2,7 @@
   "name": "frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Yassin250.github.io/movie-list2",
-
+  "homepage": "https://Yassin250.github.io/movie-list",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +11,6 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "react": "^19.1.0",
@@ -32,4 +30,3 @@
     "vite": "^7.0.4"
   }
 }
-
